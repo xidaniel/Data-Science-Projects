@@ -9,4 +9,4 @@
 - A comparison of the Netflix Stock price vs the Dow Jones Industrial Average price in 2017
 
 # Data Source:
- Yahoo Finance
+- [Yahoo Finance](https://finance.yahoo.com/lookup?s=DATA)
