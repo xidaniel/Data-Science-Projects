@@ -21,7 +21,7 @@
 - using chi squared test approach (API:[chi2_contingency](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html))
 - [calculate sample size](https://s3.amazonaws.com/codecademy-content/courses/learn-hypothesis-testing/a_b_sample_size/index.html) 
 
-# How to use *chi squared test statistical approach*?
+# How to use the *chi-squared test statistical approach*?
  - Create a matrix for data
  - Calculate chi squared value based on formula
  - Calculate degree of freedom(dof)
